@@ -33,6 +33,7 @@ The design was inspired by a tutorial, and I customized the layout, colors, and 
 ---
 
 ## 📸 Preview
+Screenshot%202026-01-14%20150528.png
 
 
 ## 📚 What I Learned
